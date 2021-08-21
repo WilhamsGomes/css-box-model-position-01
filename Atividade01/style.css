@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.img1{
+    border: 10px solid green;
+}
+
+.img2{
+    border: 8px double red;
+}
+
+.img3{
+    border: 12px dotted blue;
+}
+
+.img4{
+    border: 15px groove yellow;
+}
+
+.img5{
+    border: 18px inset orange;
+}
